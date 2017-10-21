@@ -9,4 +9,4 @@ The project requires users to have access to the latest web browser.
 The project does not require users to install or setup any utility. Users can download the repository to their desktop and simply click the index.html file to run the file. Alternatively you can view this project [Live](https://luckyrose89.github.io/portfolio-page/).
 
 ### Built With
-The project uses html, Css and JavaScript. For laying out the lements, the project employs flexbox for responsive design.
+The project uses html, Css and JavaScript. For laying out the elements, the project employs flexbox for responsive design.
